@@ -1,7 +1,7 @@
 ## Bienvenidos a mi GitHub!
 
-- 🔭 var study = "Multimedia Design"; 
-- 🌱 var learn = currently learning Javascript;
+- var study = "Multimedia Design"; 
+- var learn = currently learning Javascript;
 
 
 <div>
@@ -30,3 +30,7 @@
  <a href="https://www.linkedin.com/in/facundo-aranda-599225211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
  </div>
+  
+  <img align="center" src="https://img.shields.io/github/watchers/FacuAranda1/facuaranda1.svg">
+  <img align="center" src="https://img.shields.io/github/followers/FacuAranda1.svg?style=social&label=Follow&maxAge=2592000">
+  
