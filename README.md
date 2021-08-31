@@ -2,6 +2,7 @@
 
 - var study = "Multimedia Design"; 
 - var learn = currently learning Javascript;
+- var goal = full stack developer;
 
 
 <div>
