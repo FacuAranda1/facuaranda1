@@ -1,8 +1,8 @@
 ## Bienvenidos a mi GitHub!
 
-- const study = "Multimedia Design"; 
-- const learn = "currently learning Javascript";
-- const goal = "full stack developer";
+- var study = "Multimedia Design"; 
+- var learn = "currently learning Javascript";
+- var goal = "full stack developer";
 
 
 <div>
