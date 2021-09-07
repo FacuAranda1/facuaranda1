@@ -22,6 +22,7 @@
   <img align="center" alt="Facu-ps" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Facu-premiere" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Facu-xd" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
+  <img align="center" alt="Facu-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
   
