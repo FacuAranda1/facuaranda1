@@ -33,6 +33,7 @@
    
  </div>
   
+  <img align="center" src="https://img.shields.io/github/watchers/FacuAranda1/facuaranda1?style=social">
   <img align="center" src="https://img.shields.io/github/watchers/FacuAranda1/facuaranda1.svg">
   <img align="center" src="https://img.shields.io/github/followers/FacuAranda1.svg?style=social&label=Follow&maxAge=2592000">
   
