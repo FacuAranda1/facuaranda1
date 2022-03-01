@@ -1,9 +1,5 @@
 ## Bienvenidos a mi GitHub!
 
-- var study = "Multimedia Design"; 
-- var learn = "currently learning Vue.js";
-- var goal = "full stack developer";
-
 
 <div>
   <a href="https://github.com/FacuAranda1">
